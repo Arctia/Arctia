@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arctia
 - 👀 I’m interested in old video games, nature, music, pianoforte and a lot more
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on developing games or wikis
-- 📫 How to reach me arctia.games@gmx.com
+- 🌱 I’m currently learning C/Javascript
+- 💞️ I’m looking to collaborate on developing games, normally 2D games
+- 📫 Reach me at arctia.games@gmx.com
