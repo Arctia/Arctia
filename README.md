@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Arctia
 - 👀 I’m interested in old video games, nature, music, pianoforte and a lot more
-- 🌱 I’m currently learning a lot of things
-- 💞️ I’m looking for collaboration on developing games, normally 2D games
+- 🌱 Growing...
 - 📫 Reach me at arctia.games@gmx.com
