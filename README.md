@@ -18,6 +18,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://img.icons8.com/color/512/ubuntu.png" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
@@ -31,6 +32,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/> 
 </div>
 <br>
+
+---
+
+### 🎮 Videogames he made:
+<div><a href="https://play.google.com/store/apps/details?id=org.pecoroscompany.ast&gl=US"><img src="https://play-lh.googleusercontent.com/uj5PqkT0ytMzkDRySgzFdg38R4Ng_M1pbd7d2rKJP4E-C58O_jhhLj1i8EUTBxR2j7Y=w240-h480" title="Asteroid Revival" alt="Asteroid Revival" width="80", height="80"/></a></div>
 
 ---
 <br>
