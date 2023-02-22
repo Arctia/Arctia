@@ -34,9 +34,11 @@
 <br>
 
 ---
+<br>
 
 ### 🎮 Videogames he made:
 <div><a href="https://play.google.com/store/apps/details?id=org.pecoroscompany.ast&gl=US"><img src="https://play-lh.googleusercontent.com/uj5PqkT0ytMzkDRySgzFdg38R4Ng_M1pbd7d2rKJP4E-C58O_jhhLj1i8EUTBxR2j7Y=w240-h480" title="Asteroid Revival" alt="Asteroid Revival" width="80", height="80"/></a></div>
+<br>
 
 ---
 <br>
@@ -46,3 +48,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arctia&count_private=true&show_icons=true&theme=transparent&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arctia&layout=compact&theme=transparent) 
 </div>
+
+<br>
