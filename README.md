@@ -42,7 +42,7 @@
 
 <div align="left" style"display:box">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arctia&count_private=true&show_icons=true&theme=transparent&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arctia&count_private=true&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arctia&count_private=true&layout=compact&theme=transparent) 
 </div>
 
