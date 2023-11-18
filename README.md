@@ -42,6 +42,12 @@
 
 ---
 
+### 📱 Applications he made :
+<div><a href="https://arctia.itch.io/drpgwiki"><img src="" title="DRPGWikiApp" alt="DRPG Wiki app with characters translations" width="80", height="80"/></a></div>
+<br>
+
+---
+
 <div align="left" style"display:box">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arctia&count_private=true&show_icons=true&theme=transparent)
