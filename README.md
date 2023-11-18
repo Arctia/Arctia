@@ -43,7 +43,7 @@
 ---
 
 ### 📱 Applications he made :
-<div><a href="https://arctia.itch.io/drpgwiki"><img src="" title="DRPGWikiApp" alt="DRPG Wiki app with characters translations" width="80", height="80"/></a></div>
+<div><a href="https://arctia.itch.io/drpgwiki"><img src="https://img.itch.zone/aW1nLzExMzk3NjczLnBuZw==/original/5NY6QP.png" title="DRPGWikiApp" alt="DRPG Wiki app with characters translations" width="80", height="80"/></a></div>
 <br>
 
 ---
