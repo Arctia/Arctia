@@ -38,7 +38,6 @@
 ### 🎮 Videogames he made :
 <div><a href="https://play.google.com/store/apps/details?id=org.pecoroscompany.ast&hl=en&gl=GL"><img src="https://play-lh.googleusercontent.com/uj5PqkT0ytMzkDRySgzFdg38R4Ng_M1pbd7d2rKJP4E-C58O_jhhLj1i8EUTBxR2j7Y=w240-h480" title="Asteroid Revival" alt="Asteroid Revival" width="80", height="80"/></a></div>
 <br>
-<div style="text-align:center">Who would want a night so bright that obscure stars?</div>
 
 ---
 
@@ -46,6 +45,7 @@
 <div><a href="https://arctia.itch.io/drpgwiki"><img src="https://img.itch.zone/aW1nLzExMzk3NjczLnBuZw==/original/5NY6QP.png" title="DRPGWikiApp" alt="DRPG Wiki app with characters translations" width="80", height="80"/></a></div>
 <br>
 
+<div style="text-align:center">Who would want a night so bright that obscure stars?</div>
 ---
 
 <div align="left" style"display:box">
