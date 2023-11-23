@@ -45,7 +45,6 @@
 <div><a href="https://arctia.itch.io/drpgwiki"><img src="https://img.itch.zone/aW1nLzExMzk3NjczLnBuZw==/original/5NY6QP.png" title="DRPGWikiApp" alt="DRPG Wiki app with characters translations" width="80", height="80"/></a></div>
 <br>
 
-<div style="text-align:center">Who would want a night so bright that obscure stars?</div>
 ---
 
 <div align="left" style"display:box">
@@ -53,4 +52,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arctia&count_private=true&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arctia&count_private=true&layout=compact&theme=transparent) 
 </div>
+
+<div style="text-align:center">Who would want a night so bright that obscure stars?</div>
+
 <br>
