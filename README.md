@@ -8,7 +8,7 @@
 
 - 👀 Interested in nature, music, pianoforte, old video games and a lot more
 - 🌱 Growing, currently student at 42Roma Luiss
-- 📫 Reach him at arctia.games@gmx.com
+- 📫 Reach him at vincent@arctiagames.com
 <br>
 
 ---
