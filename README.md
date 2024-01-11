@@ -9,9 +9,8 @@
 - 👀 Interested in nature, playing piano, old video games and a lot more
 - 🌱 Growing, currently student at 42Roma Luiss
 - 📫 Reach him at admin@arctiagames.com
-<br>
 
-### Just a little bio :
+### ⛰️ Just a little bio :
 <div style="left:4px">He started learning programming at the age of 13 as self-taught, initially just as a hobby. However, he now devotes his days to it with both work and personal projects. He relishes the daily challenges that programming presents to him and won't stop until he solves them. 
 To reinforce his fundamentals, he started studying at 42school, in line with his learning style.</div>
 <br>
