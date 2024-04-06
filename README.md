@@ -5,13 +5,13 @@
 ---
 
 ### :monkey: Who's Arctia :
-<div style="left:4px">He started learning programming at the age of 13 as self-taught, initially just as a hobby. However, he now devotes his days to it with both work and personal projects. He relishes the daily challenges that programming presents to him and won't stop until he solves them. 
+<div style="left:4px">He started learning programming at an early age as self-taught, initially just as a hobby. However, he now devotes his days to it with both work and personal projects. He relishes the daily challenges that programming presents to him and won't stop until he solves them. 
 To reinforce his fundamentals, he started studying at 42school, in line with his learning style.</div>
 <p></p>
 In a nutshell:
 
 - 👀 He is interested in nature, playing the piano, old video games and a lot more
-- 🌱 Endlessly growing, currently student at 42Roma Luiss
+- 🌱 Endlessly growing, member of 42Network
 - 📫 Reach him at admin@arctiagames.com
 <br>
 
