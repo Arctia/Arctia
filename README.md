@@ -51,14 +51,24 @@ In a nutshell:
 ### 🎮 Videogames he made :
 <div style="display: flex-inline; margin:auto;">
   <a href="https://play.google.com/store/apps/details?id=org.pecoroscompany.ast&hl=en&gl=GL" target="_blank"><img src="https://play-lh.googleusercontent.com/uj5PqkT0ytMzkDRySgzFdg38R4Ng_M1pbd7d2rKJP4E-C58O_jhhLj1i8EUTBxR2j7Y=w240-h480" title="Asteroid Revival" alt="Asteroid Revival" width="80", height="80"/></a>&nbsp;&nbsp;&nbsp;
+</div>
+<br>
+
+---
+
+### 🎮 Game Jams participations :
+<div style="display: flex-inline; margin:auto;">
   <a href="https://arctia.itch.io/circuit-breakers" target="_blank"><img src="https://i.imgur.com/YAvFNIa.png" title="Circuit Breakers" alt="Light beam going into a prism refracting in different light color beams" width="80", height="80"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://spaghettistudioroma.itch.io/ash-blossom" target="_blank"><img src="https://i.imgur.com/8zi3hji.gif" title="Ash Blossom" alt="Ash Blossom" width="80", height="80"/></a></div>
+  <a href="https://spaghettistudioroma.itch.io/ash-blossom" target="_blank"><img src="https://i.imgur.com/8zi3hji.gif" title="Ash Blossom" alt="Ash Blossom" width="80", height="80"/></a>
+</div>
 <br>
 
 ---
 
 ### 📱 Applications he made :
-<div><a href="https://arctia.itch.io/drpgwiki"><img src="https://img.itch.zone/aW1nLzExMzk3NjczLnBuZw==/original/5NY6QP.png" title="DRPGWikiApp" alt="DRPG Wiki app with characters translations" width="80", height="80"/></a></div>
+<div>
+  <a href="https://arctia.itch.io/drpgwiki"><img src="https://img.itch.zone/aW1nLzExMzk3NjczLnBuZw==/original/5NY6QP.png" title="DRPGWikiApp" alt="DRPG Wiki app with characters translations" width="80", height="80"/></a>
+</div>
 <br>
 
 ---
