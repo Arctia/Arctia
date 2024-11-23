@@ -56,7 +56,7 @@ In a nutshell:
 
 ---
 
-### 🎮 Game Jams participations :
+### 🎮 Game Jams participation :
 <div style="display: flex-inline; margin:auto;">
   <a href="https://arctia.itch.io/circuit-breakers" target="_blank"><img src="https://i.imgur.com/YAvFNIa.png" title="Circuit Breakers" alt="Light beam going into a prism refracting in different light color beams" width="80", height="80"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://spaghettistudioroma.itch.io/ash-blossom" target="_blank"><img src="https://i.imgur.com/8zi3hji.gif" title="Ash Blossom" alt="Ash Blossom" width="80", height="80"/></a>
