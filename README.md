@@ -1,5 +1,5 @@
 
-###  <div align="center" style="position: relative; text-align: center;"><img src="https://avatars.githubusercontent.com/u/8222563?s=96&v=4" title="Arctia-Icon"><div style="position:absolute; top: 50%; left: 50%; transform: translate(50%, 50%)">👋 Hey Arctia is here!</div></div>
+###  <div align="center" style="position: relative; text-align: center;"><img src="https://globalgamejam.org/sites/default/files/styles/sidebar_full/public/pictures/2025-01/wisp%20002-export.gif?itok=zyDh5TcD" title="Arctia-Icon"><div style="position:absolute; top: 50%; left: 50%; transform: translate(50%, 50%)">👋 Hey Arctia is here!</div></div>
 <br>
 
 ---
